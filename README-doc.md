@@ -3,10 +3,30 @@
 ## Caracteristicas
 -   Linguagem de alto nivel (mais proxima a liguagem humana, facil de ler);
 -   Linguagem interpretada (passa por um interpretador que irá gerar a aplicação);
--   MultiPçataforma (com o mesmo código é possivel gerar uma aplicação para diversos sisemas operaxionais);
+-   MultiPlataforma (com o mesmo código é possivel gerar uma aplicação para diversos sisemas operaxionais);
 -   Multiparadigima (orientação a objeto, funcional e imperativa);
 -   Tipagem dinamica (não é necessario definir os tipos das variais.);
 -   Indentação por espaços obrigatória;
+
+## Sintaxe (comandos)
+*   Variaveis
+    - INT (inteiro)
+    - FLOAT (ponto flutuante)
+    - STR (string - texto ou cadeia de caracteres)
+    - BOLEAN (True/verdadeiro - False/falso)
+    - OBJECT (objeto)
+    - 
+
+*   Operadores:
+    - soma / concatenação (+)
+    - subtração (-)
+    - mutiplicação (*)
+
+*   Funções:
+    - print() -impriri algo na tela-
+    - type() -retorna o tipo do dado-
+    - 
+
 
 ## Material de apoio
 
