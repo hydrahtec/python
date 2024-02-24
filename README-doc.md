@@ -25,7 +25,7 @@
 *   Funções:
     - print() -impriri algo na tela-
     - type() -retorna o tipo do dado-
-    - 
+    - isinstance()
 
 
 ## Material de apoio
