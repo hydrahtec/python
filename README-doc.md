@@ -20,7 +20,11 @@
 *   Operadores:
     - soma / concatenação (+)
     - subtração (-)
-    - mutiplicação (*)
+    - multiplicação (*)
+    - divisão real (/)
+    - divisáo inteira (//)
+    - modulo (%)
+    - potenciação (**)
 
 *   Funções:
     - print() -impriri algo na tela-
