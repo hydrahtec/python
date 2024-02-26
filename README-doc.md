@@ -9,7 +9,7 @@
 -   Indentação por espaços obrigatória;
 
 ## Sintaxe (comandos)
-*   Variaveis
+*   Data type
     - INT (inteiro)
     - FLOAT (ponto flutuante)
     - STR (string - texto ou cadeia de caracteres)
@@ -30,9 +30,21 @@
     - print() -impriri algo na tela-
     - type() -retorna o tipo do dado-
     - isinstance()
+    - int()
+    - float()
+    - range(valor_inicial, valor_final, (de,in)cremento)
 
+## Libs
+    - PYPI.ORG (libs do python)
+    - py --version
+    - py -m pip list 
+    - update pip (py -m pip install --upgrade pip)
+    - MATPLOTLIB - graficos (py -m pip install matplotlib)
+    - detalhes lib (py -m pip show 'lib')
+    - 
 
 ## Material de apoio
 
 ### Api do Twitter
 -   https://developer.twitter.com/
+
