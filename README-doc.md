@@ -9,7 +9,7 @@
 -   Indentação por espaços obrigatória;
 
 ## Sintaxe (comandos)
-*   Variaveis
+*   Data type
     - INT (inteiro)
     - FLOAT (ponto flutuante)
     - STR (string - texto ou cadeia de caracteres)
@@ -30,6 +30,9 @@
     - print() -impriri algo na tela-
     - type() -retorna o tipo do dado-
     - isinstance()
+    - int()
+    - float()
+    - range(valor_inicial, valor_final, (de,in)cremento)
 
 
 ## Material de apoio
