@@ -34,7 +34,6 @@
     - float()
     - range(valor_inicial, valor_final, (de,in)cremento)
 
-
 ## Libs
     - PYPI.ORG (libs do python)
     - py --version
