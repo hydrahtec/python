@@ -16,8 +16,9 @@ print(max(valores)) #retorna o maior valor da lista
 print(17 in valores) # verifica se existe o valor 17 dentro da lista valores
 
 valores.append(13) #acrescenta um valor na lista na ultima posição
+valores.remove() # para a remoção pelo valor informado no parâmetro
 valores.pop() #retira um valor da lista, se não for passado parametros retira sempre o ultimo elemento. ao passar o parametro ele retira o elemento na posoção declarada.
-valores.insert(3,21) #insere um valor dentro da lista. primeiro_valor = posição inicla, segundo_valor = conteudo que será inserido na lista.
+valores.insert(3,21) #insere um valor dentro da lista. primeiro_valor = posição inicial, segundo_valor = conteudo que será inserido na lista.
 
 bebidas = []
 
