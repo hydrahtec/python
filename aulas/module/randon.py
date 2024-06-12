@@ -19,7 +19,7 @@ import random
 
 #---------------------------------
 # valor = random.uniform(1,100) #gera um numero de ponto flutuante mas é possivel especifiacar range
-# print(f'Búmero: {valor}')
+# print(f'número: {valor}')
 
 #---------------------------------
 L = [5,4,3,6,2,7,3,6,7,]
